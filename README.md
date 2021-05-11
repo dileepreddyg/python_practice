@@ -1,2 +1,1 @@
-# Practice_python
-python_codes
+# Simple python codes 
